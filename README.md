@@ -2,4 +2,4 @@
 雷神安卓快捷关闭app
 我不会android，全靠ai ~
 
-![](./leigod.jpg)
+<img src="./leigod.jpg" width="300px">
